@@ -14,5 +14,82 @@ Author: alex_png <alex.png.cc@gmail.com>
 Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/
 Icon: https://alexpng.github.io/depictions/com.alexpng.darkpapers/DebIcon.png
 Name: DarkPapers
-SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/darkpapers.json
+SileoDepiction: {
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "ChristmasFortune",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Merry Christmas want some Christmas fortunes? Well, then install this tweak, enable it and shake your device to get a fortune.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": ""
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "# I didn't made this tweak this tweak originally was created by alex_png Fortune Cookie, I just modified this tweak. # I have full permissions to modify this tweak here is the link https://github.com/alexPNG/FortuneCookie/blob/master/LICENSE. ",
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "12-12-2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Pieloma",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "headerImage": "https://chods-cheats.com/uploads/monthly_2017_12/header-background-indexed.png.2d9cf7839f995da1eacff51a8627d055.png",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb"
+}
 
